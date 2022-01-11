@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ### I'm [Dimole](https://github.com/dmlgzs)
-- 🏫 I’m currently freshman at Xidian University 
+- 🏫 I’m currently a freshman at Xidian University 
 - 🌱 I’m currently learning C / C++ / Kotlin 
 - ✍️ Blogger at [my blog](https://blog.dml.ink) 
 - 🐟 Loaf on everything(
