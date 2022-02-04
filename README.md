@@ -2,7 +2,7 @@
 ### I'm [Dimole](https://github.com/dmlgzs)
 - 🏫 I’m currently a freshman at Xidian University 
 - 🌱 I’m currently learning C / C++ / Kotlin 
-- ✍️ Blogger at [my blog](https://blog.dml.ink) 
+- ✍️ Blogger at my blog: [https://blog.dml.ink](https://blog.dml.ink) 
 - 🐟 Loaf on everything(
 - 📫 How to reach me: +1 (936) 666-6786 
 
