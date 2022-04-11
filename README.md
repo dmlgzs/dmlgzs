@@ -1,7 +1,7 @@
 ## Hi there 👋 
 ### I'm [Dimole](https://github.com/dmlgzs)
 - 🏫 I’m currently a freshman at Xidian University 
-- 🌱 I’m currently learning C / C++ / Kotlin 
+- 🌱 I’m currently learning C / C++ / Kotlin / Node.js
 - ✍️ Blogger at my blog: [https://blog.dml.ink](https://blog.dml.ink) 
 - 🐟 Loaf on everything(
 
