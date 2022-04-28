@@ -7,3 +7,6 @@
 - 🐟 Loaf on everything( 
 
 [![Dimole's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmlgzs)](https://github.com/anuraghazra/github-readme-stats)
+![Dimole's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmlgzs&layout=compact&hide_border=true&langs_count=10)
+
+
