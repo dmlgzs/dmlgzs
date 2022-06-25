@@ -1,6 +1,6 @@
 ## Hi 👋 Dimole here.  
 
-- 🏫 I’m currently a freshman at Xidian University 
+- 🏫 I’m a sophomore majoring in cyber security at Xidian University 
 - 🌱 I’m currently learning C / C++ / Kotlin / Node.js 
 - ✍️ Blogger at my blog: [https://blog.dml.ink](https://blog.dml.ink) 
 - 🎮 Play Minecraft, Genshin Impact, Honkai: Star Rail and Blue Archive on mobile 
