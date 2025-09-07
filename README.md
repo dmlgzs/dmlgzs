@@ -12,5 +12,5 @@
 
 [Homepage (zh)](https://dml.ink) · [Blog (zh)](https://blog.dml.ink) · [About (zh)](https://blog.dml.ink/about.html)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dmlgzs&show_icons=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmlgzs&layout=compact&langs_count=10&theme=buefy&hide_border=true" /></a> |
+| <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dmlgzs&show_icons=true&theme=transparent&hide_border=true" /> | <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmlgzs&layout=compact&langs_count=10&theme=transparent&hide_border=true" /> |
 | ------------- | ------------- |
