@@ -2,7 +2,6 @@
 
 - 🏫 Cybersecurity major 
 - 💻 Mainly use Node.js (sometimes other languages too)
-- ✨ “Sometimes I debug, sometimes I just vibe.” 
 - 🕵️ Reverse-engineering enthusiast
 - 🔭 Exploring how things work under the hood 
 - 🎮 Occasionally research game protocols 
